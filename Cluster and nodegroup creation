@@ -9,7 +9,7 @@
 
  > Create  node group
 
-   3) eksctl create nodegroup --cluster=mamatha-eks \
+   3) eksctl create nodegroup --cluster=mamatha \
                         --region=us-east-1 \
                         --name=eksdemo1-ng-public1 \
                         --node-type=t3.medium \
